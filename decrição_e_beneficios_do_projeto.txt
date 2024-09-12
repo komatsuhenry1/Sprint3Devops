@@ -1,0 +1,14 @@
+O projeto AI-commerce é uma plataforma de e-commerce que utiliza inteligência artificial (IA) para melhorar a experiência de compra dos 
+clientes. Ao se cadastrarem no site, os usuários informam seus principais interesses, o que permite que a IA colete esses dados para personalizar 
+futuras recomendações. Com base nessas preferências, a IA analisa o comportamento de compra dos clientes e sugere produtos complementares ou 
+relacionados no momento em que o usuário está realizando uma compra. Isso aumenta a relevância das sugestões e melhora a experiência de compra, 
+proporcionando recomendações que se alinham com os interesses do cliente.
+
+Durante o processo de compra, o sistema identifica padrões de comportamento e preferências individuais. Por exemplo, se um cliente está comprando 
+um produto de tecnologia, a IA pode sugerir acessórios ou itens relacionados com base nos interesses registrados no perfil. Essa abordagem personalizada 
+tem o potencial de aumentar a satisfação do cliente, além de impulsionar as vendas cruzadas e o ticket médio das transações, criando um ciclo de recomendações 
+cada vez mais preciso e eficiente ao longo do tempo.
+
+Além de melhorar a experiência de compra, o AI-commerce visa criar um ambiente de e-commerce mais intuitivo e focado no cliente. A utilização de IA permite 
+que a empresa se destaque no mercado ao oferecer um serviço altamente adaptável e responsivo, levando em consideração os gostos e necessidades de cada cliente, 
+e promovendo produtos que possam ter um impacto mais significativo na decisão de compra.
